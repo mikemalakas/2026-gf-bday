@@ -30,7 +30,7 @@ export default function HorizontalCharReveal({
   rotationRange = [-20, 20],
 }: HorizontalCharRevealProps) {
   const wrapperRef = useRef<HTMLDivElement | null>(null);
-  const textRef = useRef<HTMLHeadingElement | null>(null);
+  const textRef = useRef<HTMLLabelElement | null>(null);
 
   useLayoutEffect(() => {
     const wrapper = wrapperRef.current;

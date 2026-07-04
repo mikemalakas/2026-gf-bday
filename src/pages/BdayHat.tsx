@@ -183,7 +183,9 @@ export default function BirthdayHatReveal({
           {flowers.map((flower, i) => (
             <img
               key={i}
-              ref={(el) => (flowerRefs.current[i] = el)}
+              ref={(el) => {
+                flowerRefs.current[i] = el;
+              }}
               src={flower.src}
               alt=""
               draggable={false}
