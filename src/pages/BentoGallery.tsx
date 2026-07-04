@@ -156,14 +156,12 @@ export default function BentoGallery() {
               from={{ opacity: 0, yPercent: 100 }}
               stagger={0.1}
             >
-              Here's to every ordinary Tuesday and every big adventure still
-              ahead of us. Here's to every ordinary Tuesday and every big
-              adventure still ahead of us. Here's to every ordinary Tuesday and
-              every big adventure still ahead of us. Here's to every ordinary
-              Tuesday and every big adventure still ahead of us. Here's to every
-              ordinary Tuesday and every big adventure still ahead of us. Here's
-              to every ordinary Tuesday and every big adventure still ahead of
-              us. Here's to every ordinary Tuesday and every big adventure still
+              Hello bubby unang una sa lahat gusto kong malaman mo na mahal na
+              mahal kita. Sana maging masaya ka sa araw na to at sana maraming
+              blessing pa ang dumating pa sa buhay naten. Looking forward sa
+              future naten and sa journey naten dalawa. Lagi mong tatandaan
+              andito lang ako para saiyo and susuportahan kita sa kahit anong
+              gusto mo. I love you so much bub.
             </SplitTextReveal>
           </div>
 
